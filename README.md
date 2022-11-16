@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notmanyideasdev&label=Profile%20Visits%20%F0%9F%91%80&color=32d926&style=flat-square" alt="notmanyideasdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notmanyideasdev" alt="notmanyideasdev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/notmanyideas" target="blank"><img src="https://img.shields.io/twitter/follow/notmanyideas?logo=twitter&style=for-the-badge" alt="notmanyideas" /></a> </p>
 
 - 🔭 I’m currently working at [Swift Tech LLC](https://twitter.com/swifttechapp)
