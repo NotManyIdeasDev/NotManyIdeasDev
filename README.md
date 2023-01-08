@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Swift Tech LLC](https://twitter.com/swifttechapp)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Front End**
 
 - 💬 Ask me about **backend, web3, NFTs**
 
