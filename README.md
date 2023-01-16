@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/notmanyideas" target="blank"><img src="https://img.shields.io/twitter/follow/notmanyideas?logo=twitter&style=for-the-badge" alt="notmanyideas" /></a> </p>
 
-- 🔭 I’m currently working at [Swift Tech LLC](https://twitter.com/swifttechapp)
+- 🔭 I’m currently working at: [Swift Tech LLC](https://twitter.com/swifttechapp)
 
-- 🌱 I’m currently learning **Front End**
+- 🌱 I’m currently learning: **Front End**
 
-- 💬 Ask me about **backend, web3, NFTs**
+- 💬 Ask me about: **backend, web3, NFTs**
 
 - 📫 How to reach me: **skypeciao17@gmail.com**
 
-- ⚡ Fun fact **My name is mostly wrong! I've got lots of ideas for new projects!**
+- ⚡ Fun fact: **My name is mostly wrong! I've got lots of ideas for new projects!**
 
 - ♟️ I love playing **chess!**
 
