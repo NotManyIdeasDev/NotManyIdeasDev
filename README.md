@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **My name is mostly wrong! I've got lots of ideas for new projects!**
 
+- ♟️ I love playing **chess!**
+
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
