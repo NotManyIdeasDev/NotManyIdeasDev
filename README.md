@@ -7,16 +7,15 @@
 
 - 🔭 I’m currently working at: [NameKuji Labs](https://namekuji.xyz/)
 
-- 🌱 I’m currently learning: **Front End**
+- 🌱 I’m currently learning: **High Level Maths**
 
-- 💬 Ask me about: **backend, web3, NFTs**
+- 💬 Ask me about: **anything!**
 
 - 📫 How to reach me: **skypeciao17@gmail.com**
 
 - ⚡ Fun fact: **My name is mostly wrong! I've got lots of ideas for new projects!**
 
-- ♟️ I love playing **chess!**
-
+- ♟️ I love playing **chess! [Challenge me!](https://www.chess.com/member/notmanyideas)**
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
