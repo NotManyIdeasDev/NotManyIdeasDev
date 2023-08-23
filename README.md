@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at: [NameKuji Labs](https://namekuji.xyz/)
 
-- 🌱 I’m currently learning: **High Level Maths**
+- 🌱 I’m currently learning: **High Level Maths, AI, Game Theory**
 
 - 💬 Ask me about: **anything!**
 
