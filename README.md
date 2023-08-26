@@ -13,9 +13,9 @@
 
 - 📫 How to reach me: **skypeciao17@gmail.com**
 
-- ⚡ Fun fact: **My name is mostly wrong! I've got lots of ideas for new projects!**
+- ⚡ Fun fact: **My name is deceiving! I've got lots of ideas for new projects!**
 
-- ♟️ I love playing **chess! [Challenge me!](https://www.chess.com/member/notmanyideas)**
+- ♟️ I love playing **chess! Challenge [me](https://www.chess.com/member/notmanyideas) or [my bot](https://lichess.org/@/nmi_bot)!**
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
