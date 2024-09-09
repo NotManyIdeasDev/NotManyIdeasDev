@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/notmanyideas" target="blank"><img src="https://img.shields.io/twitter/follow/notmanyideas?logo=twitter&style=for-the-badge" alt="notmanyideas" /></a> </p>
 
-- 🔭 I’m currently working at: [NameKuji Labs](https://namekuji.xyz/)
-
 - 🌱 I’m currently learning: **High Level Maths, AI, Game Theory**
 
 - 💬 Ask me about: **anything!**
