@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm NotManyIdeas!</h1>
+<h1 align="center">Hi 👋, I'm notmanyideas!</h1>
 <h3 align="center">A mathematician that discovered computers :P</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notmanyideasdev&label=Profile%20Visits%20%F0%9F%91%80&color=32d926&style=flat-square" alt="notmanyideasdev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/notmanyideas" target="blank"><img src="https://img.shields.io/twitter/follow/notmanyideas?logo=twitter&style=for-the-badge" alt="notmanyideas" /></a> </p>
 
-- 🌱 I’m currently learning: **High Level Maths, AI, Game Theory**
+- 🌱 I’m currently learning: **AI, Abstract Maths, Game Theory**
 
-- 💬 Ask me about: **anything!**
+- 🎓 Currently studying: **Mathematics and Computer Science for Artificial Intelligence** at _Università Commerciale L. Bocconi_
+
+- 💬 Ask me about: **anything, really!**
 
 - 📫 How to reach me: **skypeciao17@gmail.com**
 
