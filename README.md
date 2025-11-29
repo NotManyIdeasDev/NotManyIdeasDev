@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/notmanyideas" target="blank"><img src="https://img.shields.io/twitter/follow/notmanyideas?logo=twitter&style=for-the-badge" alt="notmanyideas" /></a> </p>
 
-- 🌱 I’m currently learning: **AI, Abstract Maths, Game Theory**
+- 🌱 I’m currently learning: **Pure & Applied Mathematics, AI, Algorithms**
 
 - 🎓 Currently studying: **Mathematics and Computer Science for Artificial Intelligence** at _Università Commerciale L. Bocconi_
 
-- 💬 Ask me about: **anything, really!**
-
-- 📫 How to reach me: **skypeciao17@gmail.com**
+- 📫 How to reach me: **giancamilloalessandroni@gmail.com**
 
 - ⚡ Fun fact: **My name is deceiving! I've got lots of ideas for new projects!**
 
