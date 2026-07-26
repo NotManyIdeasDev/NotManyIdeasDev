@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **My name is deceiving! I've got lots of ideas for new projects!**
 
-- ♟️ I love playing **chess! Challenge [me](https://www.chess.com/member/notmanyideas) or [my bot](https://lichess.org/@/nmi_bot)!**
+- ♟️ I love playing **chess! Challenge [me](https://www.chess.com/member/notmanyideas) or [my bot](https://lichess.org/@/nmibot)!**
 <br></br>
 
 <h3 align="center">Connect with me:</h3>
